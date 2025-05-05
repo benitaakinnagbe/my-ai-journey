@@ -7,7 +7,7 @@
 
 # 🔍 About Me
 
-I’m Benita—a curious and passionate learner with a background in Medical Laboratory Science (MLS). After years of working in clinical diagnostics and scientific research, I became deeply fascinated by the possibilities of artificial intelligence, especially its potential to transform healthcare, research, and everyday problem-solving.
+I’m Benita, a curious and passionate learner with a background in Medical Laboratory Science (MLS). After years of working in clinical diagnostics and scientific research, I became deeply fascinated by the possibilities of artificial intelligence, especially its potential to transform healthcare, research, and everyday problem-solving.
 
 In 2025, I began my official transition into the world of AI/ML. Though I'm still early in the journey, I'm committed to learning, growing, and building meaningful solutions.
 
